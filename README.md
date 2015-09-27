@@ -14,4 +14,4 @@ run_analysis.R will:
 
 And CookBook.md that describes the process used
 
-You will find as well averages_data.txt where you will found the result of step 5.
+You will find as well averages.txt where you will found the result of step 5.
